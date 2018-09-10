@@ -1,2 +1,2 @@
-# lecture0
+# CS50
 CS50
